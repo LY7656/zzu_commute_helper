@@ -11,7 +11,7 @@
    * 点击页面右上角的`Fork`按钮，将本项目保存到自己的仓库。点击`Fork`左侧的`Star`键可以表示您对本项目和作者的认同。🤩
    ![fork.PNG](https://i.loli.net/2020/11/24/2hTtGldiZF9B7DX.png)
 ### 2. 添加 secrets
-   * 点击`Settings`-->`Secrets`-->`New repository secret`，进入新建页面。
+   * 点击`Settings`-->`Secrets`-->`New repository secret`，进入新建页面
    ![secrets.PNG](https://i.loli.net/2020/11/24/mIWLRTzUJxuiMHa.png)
    * 在`Name`栏输入`UID`，`Value`栏输入自己的学号，然后点击`Add secret`。
    * 再次点击`Settings`-->`Secrets`-->`New repository secret`，进入新建页面。
